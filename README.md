@@ -1,16 +1,12 @@
-# to_do_app
+# To Do List
 
-A new Flutter project.
+A Flutter project made for a job interview.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This project is a simple flutter app containing editable To-Do list. It's using Firebase DB to store data.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](../master/images/s1.png)
+![2](../master/images/s2.png)
+![3](../master/images/s3.png)
